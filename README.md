@@ -1,5 +1,6 @@
 # Cows
 POJ Contest,Author:Mathematica@ZSU 
+
 Cows
 Time Limit: 3000MS		Memory Limit: 65536K
 Total Submissions: 27431		Accepted: 8996
